@@ -3,7 +3,7 @@ This repository holds a starter project for Python 3. You can use this project
 to get started on your Python problem immediately. The main Python script is 
 named:
 
-    mystarter.py
+    investigate.py
 
 You should customize this file instead of adding any new ones.
 
